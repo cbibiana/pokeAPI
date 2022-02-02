@@ -1,0 +1,23 @@
+/* * seria body , siempre se empiezan todas las paginas con 0  */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #f0c7d1;
+}
+/* cabecera 100% me ocupa todo el menu , toda la ventana del navegador */
+.header{
+    width: 100%;
+    z-index: 1;
+}
+
+.headerStyle{
+    color: #23cec5;
+}
+
+.pokemon{
+    margin-top: 140px;
+    margin-bottom: 60px;
+}
